@@ -164,3 +164,8 @@ Open the local URL displayed in your terminal.
 ---
 
 *Bol Khata makes everyday bookkeeping simpler, faster and more accessible through voice-powered technology.*
+
+
+## 🎥 Project Demonstration
+
+[▶ Watch Bol Khata Demo on YouTube](https://youtu.be/6Z5FF1zusAM)
