@@ -1,0 +1,13 @@
+{
+  "projectId": "72648916",
+  "functions": {
+    "gnani-stt": {
+      "hasChanged": false,
+      "hash": "6a6ad5134355eb161a016d1586fd5c93f1297027ecdb7c688ff54626ae8fc3c4"
+    },
+    "gnani-tts": {
+      "hasChanged": false,
+      "hash": "def95d6986e3729542ff9694b4147081f13311cc2a438f74bb5966ff8e75044b"
+    }
+  }
+}

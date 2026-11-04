@@ -1,0 +1,5 @@
+[functions.gnani-stt]
+verify_jwt = false
+
+[functions.gnani-tts]
+verify_jwt = false
